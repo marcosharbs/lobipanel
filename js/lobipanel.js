@@ -2067,4 +2067,4 @@ $(function () {
     $parent.lobiPanelParent();
 });
 
-return $.fn.lobiPanel;
+export default $.fn.lobiPanel;
