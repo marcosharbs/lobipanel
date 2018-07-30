@@ -2067,3 +2067,4 @@ $(function () {
     $parent.lobiPanelParent();
 });
 
+return $.fn.lobiPanel;
